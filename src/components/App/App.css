@@ -1,0 +1,13 @@
+body {
+  background-image: url('../../../public/assets/images/home.png');
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-color: #E1E8ED;
+  margin: 41px 60px;
+}
+
+.wrapper h1{
+  font-size: 38px;
+  letter-spacing: -0.02em;
+}
